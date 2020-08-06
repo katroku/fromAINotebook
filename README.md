@@ -1,6 +1,6 @@
 # fromAINotebook
 
-BERT-PythonExploration.ipynb
-BERTInference.ipynb
+- BERT-PythonExploration.ipynb
+- BERTInference.ipynb
 BERTQALabelling.ipynb
 read_input_files.ipynb
